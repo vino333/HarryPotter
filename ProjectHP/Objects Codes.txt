@@ -1,0 +1,12 @@
+V = voldemort
+N = nagini
+M = malfoy
+F = flitch
+B = wall
+A = white wand
+W = wand
+S = sword
+P = energy
+K = doorkey
+D = door
+C = coin

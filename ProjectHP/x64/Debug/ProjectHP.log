@@ -1,0 +1,5 @@
+﻿  Level.cpp
+c:\users\vino\documents\visual studio 2017\projects\projecthp\projecthp\level.cpp(10): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\vino\documents\visual studio 2017\projects\projecthp\projecthp\level.cpp(31): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\vino\documents\visual studio 2017\projects\projecthp\projecthp\level.cpp(84): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  ProjectHP.vcxproj -> C:\Users\vino\documents\visual studio 2017\Projects\ProjectHP\x64\Debug\ProjectHP.exe
